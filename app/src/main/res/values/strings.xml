@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoFitListTextView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="data">
+        <item>Lorem</item>
+        <item>ipsum</item>
+        <item>dolor</item>
+        <item>sit</item>
+        <item>consetetur</item>
+        <item>sadipscing</item>
+        <item>elitr</item>
+    </string-array>
+
+</resources>
